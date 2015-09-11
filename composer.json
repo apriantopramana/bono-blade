@@ -1,5 +1,5 @@
 {
-    "name": "xinix-technology/bono-blade",
+    "name": "apriantopramana/bono-blade",
     "description": "Laravel Blade template engine for Bono PHP Framework",
     "autoload": {
         "psr-0": {
